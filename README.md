@@ -1,5 +1,5 @@
 # gitdemot
-this my first repo using git
+this my first repo using git, its just for fun
 - change file
 - ad file for
 - commit file with a message
